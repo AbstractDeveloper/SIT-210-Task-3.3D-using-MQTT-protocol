@@ -9,17 +9,17 @@ In this task, you will build an embedded system that allows you to send and rece
 
 Hardware Required
 
-Arduino Nano 33 IoT device
+       Arduino Nano 33 IoT device
+ 
+       Ultrasonic sensor
 
-Ultrasonic sensor
-
-1 LED light
+       1 LED light
 
 
 Software Required
 
-Arduino web IDE
+        Arduino web IDE
 
-Online MQTT client for testing (e.g. http://www.hivemq.com/demos/websocket-client/)
+        Online MQTT client for testing (e.g. http://www.hivemq.com/demos/websocket-client/)
 
-public MQTT broker (https://www.emqx.com/en/mqtt/public-mqtt5-broker)
+        public MQTT broker (https://www.emqx.com/en/mqtt/public-mqtt5-broker)
